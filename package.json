@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/excepturi-itaque-minima-impedit",
-  "version": "4.8.91",
+  "version": "5.8.91",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -596,5 +596,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/excepturi-itaque-minima-impedit/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
